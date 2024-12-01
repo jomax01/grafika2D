@@ -1,0 +1,320 @@
+﻿  main.cpp
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(98,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(98,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(98,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(98,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(99,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(99,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(99,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(99,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(100,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(100,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(100,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(100,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(101,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(101,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(101,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(101,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(106,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(106,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(107,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(107,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(108,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(108,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(109,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(109,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(114,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(114,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(114,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(115,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(115,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(115,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(116,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(116,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(116,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(117,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(117,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(117,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(122,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(122,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(122,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(123,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(123,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(123,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(124,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(124,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(124,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(125,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(125,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(125,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(130,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(131,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(132,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(133,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(139,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(142,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(142,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(143,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(143,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(143,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(144,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(144,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(144,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(145,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(145,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(145,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(145,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(148,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(149,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(149,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(150,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(150,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(150,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(151,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(151,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(151,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(151,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(154,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(155,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(155,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(156,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(156,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(156,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(157,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(157,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(157,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(157,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(160,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(161,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(161,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(162,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(162,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(162,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(163,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(163,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(163,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(163,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(166,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(166,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(167,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(167,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(167,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(168,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(168,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(168,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(169,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(169,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(169,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(169,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(172,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(172,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(173,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(173,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(173,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(174,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(174,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(174,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(175,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(175,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(175,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(175,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(178,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(178,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(179,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(179,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(179,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(180,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(180,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(180,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(181,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(181,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(181,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(181,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(184,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(184,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(185,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(185,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(185,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(186,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(186,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(186,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(187,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(187,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(187,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(187,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(190,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(190,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(191,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(191,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(191,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(192,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(192,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(192,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(193,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(193,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(193,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(193,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(196,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(196,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(197,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(197,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(197,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(198,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(198,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(198,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(199,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(199,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(199,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(199,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(206,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(206,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(207,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(207,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(207,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(208,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(208,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(208,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(209,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(209,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(209,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(209,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(213,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(213,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(214,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(214,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(214,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(215,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(215,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(215,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(216,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(216,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(216,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(216,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(220,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(220,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(221,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(221,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(221,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(222,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(222,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(222,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(223,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(223,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(223,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(223,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(227,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(228,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(232,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(232,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(233,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(233,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(233,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(234,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(234,12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(234,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(235,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(235,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(235,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(235,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(238,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(238,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(238,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(239,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(239,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(239,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(240,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(240,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(240,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(240,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(241,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(241,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(241,31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(241,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(244,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(244,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(244,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(245,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(245,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(245,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(246,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(246,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(246,31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(246,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(247,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(247,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(247,31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(247,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(250,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(250,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(250,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(251,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(251,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(251,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(252,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(252,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(252,31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(252,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(253,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(253,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(253,31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(253,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(256,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(256,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(256,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(257,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(257,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(257,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(258,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(258,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(258,31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(258,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(259,7): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(259,7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(259,31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(259,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(264,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(264,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(265,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(265,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(272,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(274,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(274,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(286,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(287,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(288,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(289,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(290,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(292,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(293,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(293,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(294,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(294,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(295,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(296,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(296,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(307,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(309,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(309,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(310,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(647,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(703,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(703,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(714,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(714,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(714,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(780,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(780,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(799,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(838,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(995,13): warning C4305: '=': truncation from 'double' to 'float'
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1002,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1003,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1025,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1026,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1095,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1096,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1107,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1108,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1120,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\Mikrotalasna\Mikrotalasna\main.cpp(1121,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> D:\Grafika\Mikrotalasna\Mikrotalasna\x64\Debug\Sablon.exe

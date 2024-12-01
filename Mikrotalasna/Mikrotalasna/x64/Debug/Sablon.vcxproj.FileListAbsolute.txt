@@ -1,0 +1,10 @@
+C:\Users\filip\Downloads\RG Teksture\Teksture\x64\Debug\glew32.dll
+C:\Users\filip\Downloads\RG Teksture\Teksture\x64\Debug\Sablon.exe
+C:\Users\filip\Desktop\GrafikaNoviProjekti\Teksture\x64\Debug\glew32.dll
+C:\Users\filip\Desktop\GrafikaNoviProjekti\Teksture\x64\Debug\Sablon.exe
+C:\Users\PC\Desktop\GRAFIKA Projekti 2024-25\Kolokvijum 1\Mikrotalasna\x64\Debug\glew32.dll
+C:\Users\PC\Desktop\GRAFIKA Projekti 2024-25\Kolokvijum 1\Mikrotalasna\x64\Debug\Sablon.exe
+C:\Users\filip\Desktop\GrafikaNoviProjekti\Mikrotalasna\Mikrotalasna\x64\Debug\glew32.dll
+C:\Users\filip\Desktop\GrafikaNoviProjekti\Mikrotalasna\Mikrotalasna\x64\Debug\Sablon.exe
+D:\Grafika\Mikrotalasna\Mikrotalasna\x64\Debug\glew32.dll
+D:\Grafika\Mikrotalasna\Mikrotalasna\x64\Debug\Sablon.exe
